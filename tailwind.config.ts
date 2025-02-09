@@ -13,6 +13,9 @@ export default {
         foreground: "var(--foreground)",
       },
     },
+    fontFamily: {
+      sans: ["Anuphan", "sans-serif"],
+    },
   },
   plugins: [],
 } satisfies Config;
